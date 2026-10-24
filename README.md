@@ -47,3 +47,8 @@ I seriously recommend using a SSD in a enclosure, USB flash drives are just way 
 - **MagmaEye** 12.60 (confirmed)
 - **4killerbeast,Rokkun** 12.00 (confirmed)
 - **Darks/frandizzle_** 12.02 (confirmed)
+
+**Pro Dumps and testing**
+- **solidpsycho** 12.00
+- **H1Vltg3** 12.70
+- **PAO_ERAGON** 12.40
